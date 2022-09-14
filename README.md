@@ -3,4 +3,4 @@ This project is a small Python script that uses the Have I Been Pwned API for sa
 
 ## Usage
 
-*  `Run python3 checkpassword.py your_password`
+  `Run python3 checkpassword.py your_password`
